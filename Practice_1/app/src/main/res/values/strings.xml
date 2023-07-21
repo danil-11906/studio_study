@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practice_1</string>
+    <string name="sign_in" translatable="false">SignIn</string>
+    <string name="sign_up" translatable="false">SignUp</string>
+    <string name="avatar" translatable="false">avatar</string>
+    <string name="name" translatable="false">name</string>
+    <string name="surname" translatable="false">surname</string>
+    <string name="login" translatable="false">login</string>
+    <string name="password" translatable="false">password</string>
+    <string name="done" translatable="false">done</string>
+</resources>
